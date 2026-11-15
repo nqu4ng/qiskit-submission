@@ -19,4 +19,7 @@ created to make a more user-friendly control center over ZNE. Does not imply GUI
 Can edit qubit amount used within GHZ circuit, etc.
 
 
+## Link to presentation
+https://canva.link/qp20ryecrqq27av
+
 RECIEVED AI-ASSITANCE THROUGHOUT CREATION.
