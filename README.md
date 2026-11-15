@@ -15,7 +15,7 @@ tested out base with ZNE using controlled values
 created due to be unable to run with real hardware. been in que line since 0200 15/11/26
 
 ## ver3_mitiq.py
-created to make a more user friendly control center over ZNE. 
+created to make a more user-friendly control center over ZNE. Does not imply GUI.
 Can edit qubit amount used within GHZ circuit, etc.
 
 
